@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "769512632322",
+    "firebase_url": "https://fyib-3s-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fyib-3s",
+    "storage_bucket": "fyib-3s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769512632322:android:969ef1ee21ada5f5a7f71b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.fyib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGysTPUZNh8pNOepbs6k6CITa1rrFPHug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
